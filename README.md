@@ -1,4 +1,4 @@
-# Made by : Saurabh Singh
+# Made by : Nitish Kumar Singh
 
 <h1>Coromeda - Health Equipments Website</h1>
 
